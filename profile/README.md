@@ -1,4 +1,4 @@
-## Using FEV to assess and communicate flood-mitigation schemes: case studies 
+## Using FEV to assess and communicate flood-mitigation schemes
 
 This organization comprises a compilation of case studies to demonstrate the use of FEV in flood-mitigation assessment. FEV allows one to analyse and quantify the magnitude of river floods using (often publically-available) data, and then to assess the (cost-)effectiveness of potential and actual flood-mitigation schemes. The output of this process is a graphical tool that (i) contextualises the magnitude of the flood relative to the river valley and (ii) facilitates quick and direct assessment of the contribution and value of various mitigation measures.
 
