@@ -7,10 +7,10 @@ In summary, FEV offers:
 * a protocol to optimise assessment of mitigation scenarios, including cost-effectiveness analyses, for the benefit of policy makers and the public;
 * evidence-based decision-making for flood-mitigation schemes.
 
-Note that this analysis does not replace the need for performing detailed hydrodynamic modelling and should be used either prior to or in tandem with the modelling. It does, however, as an important practical alternative, replace such calculations in cases where either insufficient computational resources are available or a quick and accessible assessment is required.
+**Note that:** this analysis does not replace the need for performing detailed hydrodynamic modelling and should be used either prior to or in tandem with the modelling. It does, however, as an important practical alternative, replace such calculations in cases where *insufficient computational/data resources are available* or *a quick and accessible preliminary assessment is required for screening possible strategies*.
 
 ## Case studies
-A caase study comprises a river flood of interest (historical or simulated) and a suite of potential flood-mitigation schemes (actual or hypothetical).
+A case study comprises a river flood of interest (historical or simulated) and a suite of potential flood-mitigation schemes (actual or hypothetical).
 Each case study has its own repository which contains the relevant source code and documentation to run the analysis, as well as an example of the output. If the case study has featured in published work, then links and references are provided. 
 
 Programming/software: currently, there are examples in Python, R, Matlab, and Excel. See each case study for more info.
