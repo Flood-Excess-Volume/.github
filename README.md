@@ -6,17 +6,16 @@ This organization comprises a compilation of river flood case studies to demonst
 
 Each case study (i.e., river flood) has its own repository which contains the relevant source code and documentation, as well as an example of the output. If the case study has featured in published work, then links and references are provided. 
 
-Currently, there are examples Python, R, Matlab, and Excel. 
+Programming/software: currently, there are examples in Python, R, Matlab, and Excel. 
 
 **If anyone would like to contribute a full case study, or provide data and mitigation plans from a river flood of interest, please contact the contributors.** 
 
 ---
 ## Case studies
-Follow the following links to each repository:
-* [River Aire, UK](/RiverAire)
-* [River Brague, France](./RiverBrague)
-* [River Calder, UK](./RiverCalder)
-* [River Ciliwung, Indonesia](./RiverCiliwung)
-* [River Don, UK](./RiverDon)
+* [River Aire, UK](https://github.com/Flood-Excess-Volume/RiverAire)
+* [River Brague, France](https://github.com/Flood-Excess-Volume/RiverBrague)
+* [River Calder, UK](https://github.com/Flood-Excess-Volume/RiverCalder)
+* [River Ciliwung, Indonesia](https://github.com/Flood-Excess-Volume/RiverCiliwung)
+* [River Don, UK](https://github.com/Flood-Excess-Volume/RiverDon)
 * Next case study...
 ---
